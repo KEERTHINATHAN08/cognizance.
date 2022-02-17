@@ -1,0 +1,13 @@
+INPUT n
+
+WHILE n>0
+	 n=n-3
+WND WHILE
+IF n==0 THEN
+           print "true"
+ELSEIF
+	print"false"
+END IF
+
+
+
